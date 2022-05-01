@@ -2,12 +2,16 @@
 
 **Version 1.1**
 
-Hosting a site using prewritten but edited code
+* I was able to take prewritten code and deployed semantic elements to make the source code more accesable
+* I was able to clone original code, edit the code, 'add' changes, 'commit' changes with notes, and 'push' code back to my repo
+* 
+
+---
+
+## Site URL Running Screenshot ##
 
 ---
 
 ## Copyright ##
 
 © Richard Tran, Has no idea what he's doing
-
-### Site running URL screenshot ###
