@@ -10,6 +10,8 @@
 
 ## Site URL Running Screenshot ##
 
+![Alt text](../Develop/assets/images/screenshot.PNG?raw=true "Screenshot")
+
 ---
 
 ## Copyright ##
