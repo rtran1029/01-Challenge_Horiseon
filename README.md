@@ -9,7 +9,7 @@
 ---
 
 # Site URL Running Screenshot #
-![Alt text](https://github.com/rtran1029/01-Challenge_Horiseon/blob/main/assets/images/screenshot.PNG "Optional title")
+![Screenshot](https://github.com/rtran1029/01-Challenge_Horiseon/blob/main/assets/images/screenshot.PNG "Screenshot")
 
 ---
 
